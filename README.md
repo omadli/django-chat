@@ -1,8 +1,6 @@
 # django-chat
 A chatting app made with django-rest-framework, django-signal &amp; react.js
 
-![chat](https://user-images.githubusercontent.com/30230336/147493438-86d86809-537b-4779-81e3-74881a54f038.gif)
-
 # Installation Process
 To install this app please follow this below steps:
 ### Run Backend
